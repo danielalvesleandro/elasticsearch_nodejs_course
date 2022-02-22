@@ -1,0 +1,15 @@
+{
+  "name": "elasticsearch_course",
+  "version": "1.0.0",
+  "description": "Training in Elastic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Leandro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "inquirer": "^8.2.0"
+  }
+}
